@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T11:50:43.868Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="24.4.6" etag="oKmp5_Iuk_9mr8s6bRPj" type="device">
+<mxfile host="app.diagrams.net" modified="2024-05-23T12:02:17.021Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="24.4.6" etag="J3gY85RXlFbcLSE38fcn" type="device">
   <diagram id="HCu1tKhZiUun6x40N-DJ" name="Página-1">
     <mxGraphModel dx="2261" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -449,6 +449,136 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="1610" as="sourcePoint" />
             <mxPoint x="385" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-152" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="400" as="sourcePoint" />
+            <mxPoint x="480" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-153" value="Inserir Nome" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="430" y="400" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-154" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="460" as="sourcePoint" />
+            <mxPoint x="480" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-155" value="O nome é válido ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="445" y="520" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-156" value="Sim" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="590" as="sourcePoint" />
+            <mxPoint x="480" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-157" value="Não" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="515" y="554.5" as="sourcePoint" />
+            <mxPoint x="585" y="554.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-158" value="Nega o Registro" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="590" y="520" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-159" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="560" as="sourcePoint" />
+            <mxPoint x="720" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-160" value="&quot;Nome inválido&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="710" y="530" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-161" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="530" as="sourcePoint" />
+            <mxPoint x="760" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-162" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="PKYHH6EaitjvYvI4Y9Dz-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="320" as="sourcePoint" />
+            <mxPoint x="810" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-163" value="Inserir o Telefone" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="415" y="650" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-164" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="690" as="sourcePoint" />
+            <mxPoint x="760" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-165" value="Testar validação do telefone (SMS)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="760" y="650" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-166" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="690" as="sourcePoint" />
+            <mxPoint x="920" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-167" value="O telefone é válido ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="920" y="650" width="70" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-168" value="Sim" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.1429" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="954.5" y="720" as="sourcePoint" />
+            <mxPoint x="954.5" y="790" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-169" value="Salvar o Cadastro" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="915" y="790" width="75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-172" value="Não" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="954.5" y="650" as="sourcePoint" />
+            <mxPoint x="954.5" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-173" value="Nega o Registro" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="920" y="520" width="75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-175" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="520" as="sourcePoint" />
+            <mxPoint x="960" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-177" value="&quot;Telefone Inválido&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="920" y="270" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-178" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="PKYHH6EaitjvYvI4Y9Dz-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="300" as="sourcePoint" />
+            <mxPoint x="980" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-179" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="860" as="sourcePoint" />
+            <mxPoint x="950" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-180" value="&quot;Cadastro feito com sucesso&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="895" y="960" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-181" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="1670" as="sourcePoint" />
+            <mxPoint x="950" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKYHH6EaitjvYvI4Y9Dz-182" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.98;entryY=0.267;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="PKYHH6EaitjvYvI4Y9Dz-100">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="1670" as="sourcePoint" />
+            <mxPoint x="1010" y="1620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
