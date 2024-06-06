@@ -1,8 +1,9 @@
 cadastro de cliente = FEITO
-cadastro do fornecedor = nome, telefone, e-mail FEITO
-cadastro de produto = nome, custo, preço, tempo de produção  FEITO
-matéria prima = nome, unidade FEITO
-cadastro de transportadora = nome, telefone FEITO
-cadastro de pedido = código do cliente, quantidade de produto, frete, desconto, prazo FEITO
-cadastro do corte = quantidade, entrada, saída, prazo FEITO
-cadastro do silk = quantidade, entrada, saída, prazo FEITO
+cadastro do fornecedor = nome, telefone, e-mail 
+cadastro de produto = nome, custo, preço, tempo de produção  
+matéria prima = nome, unidade 
+cadastro de transportadora = nome, telefone 
+cadastro de pedido = código do cliente, quantidade de produto, frete, desconto, prazo 
+cadastro do corte = quantidade, entrada, saída, prazo 
+cadastro do silk = quantidade, entrada, saída, prazo 
+cadastro de unidade
