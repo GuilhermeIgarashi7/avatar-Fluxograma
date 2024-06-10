@@ -1,5 +1,5 @@
 cadastro de cliente = FEITO
-cadastro do fornecedor = nome, telefone, e-mail 
+cadastro do fornecedor = nome, telefone, e-mail = FEITO
 cadastro de produto = nome, custo, preço, tempo de produção  
 matéria prima = nome, unidade 
 cadastro de transportadora = nome, telefone 
