@@ -2,7 +2,7 @@ cadastro de cliente = FEITO
 cadastro do fornecedor = nome, telefone, e-mail = FEITO
 matéria prima = nome, unidade FEITO
 cadastro de unidade = FEITO
-cadastro de produto = nome, custo, preço, tempo de produção, o que usa para produzir 
+cadastro de produto = nome, custo, preço, tempo de produção, o que usa para produzir = FLUXO FEITO
 cadastro de pedido = código do cliente, quantidade de produto, frete, desconto, prazo 
 cadastro do corte = quantidade, entrada, saída, prazo 
 cadastro do silk = quantidade, entrada, saída, prazo 
