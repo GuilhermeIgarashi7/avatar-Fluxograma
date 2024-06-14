@@ -3,5 +3,6 @@ cadastro do fornecedor = nome, telefone, e-mail = FEITO
 matéria prima = nome, unidade FEITO
 cadastro de unidade = FEITO
 cadastro de produto = nome, custo, preço, tempo de produção = FEITO
-cadastro de pedido = código do cliente, quantidade de produto, frete, desconto, prazo 
+cadastro de pedido = código do cliente, quantidade de produto, frete, desconto, prazo = Falta as telas
 cadastro de estoque = quantos produtos tem, a disponibilidade de matéria prima, os preços 
+tela de pedidos
