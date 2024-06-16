@@ -5,4 +5,4 @@ cadastro de unidade = FEITO
 cadastro de produto = nome, custo, preço, tempo de produção = FEITO 
 cadastro de pedido = código do cliente, quantidade de produto, frete, desconto, prazo = Falta as telas
 cadastro de estoque = quantos produtos tem, a disponibilidade de matéria prima, os preços 
-cadastro de transportadora = nome, telefone, e-mail
+cadastro de transportadora = nome, telefone, e-mail FEITO
